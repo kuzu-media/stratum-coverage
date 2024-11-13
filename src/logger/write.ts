@@ -1,4 +1,4 @@
-import { CoverageEvent } from "src/types";
+import { CoverageEvent } from "../types";
 import { fs, isBrowser } from "./utils";
 import IndexedDBHelper from "./indexdb";
 

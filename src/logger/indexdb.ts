@@ -1,4 +1,4 @@
-import { CoverageEvent } from "src/types";
+import { CoverageEvent } from "../types";
 
 export interface LogEntry {
     id?: number;
